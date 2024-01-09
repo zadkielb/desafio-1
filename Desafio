@@ -1,0 +1,43 @@
+<h1>Conoce a Santiago De Chile</h1>
+<p>Descubre por que me encanta esta ciudad,mayormente entre
+    los habitantes de chile se le conoce como Santiago.
+</p>
+
+<h2>Descripcion de santiago</h2>
+
+   <p> Santiago , es la capital política y social de Chile
+    donde conviven más de 7 millones de personas en un entorno 
+    que mezcla historia y modernidad. Está rodeada de dos cordones
+    montañosos, que la convierten en una ciudad única en el mundo.
+</p>
+<h1>Lugares de Interes</h1>
+<dl>
+    <dt>Cerro San Cristobal</dt>
+    <dd>El Cerro San Cristóbal es un cerro en el norte de Santiago
+        el pico es el tercer punto más alto de la ciudad, después del Cerro Manquehue y el Cerro Renca.
+    </dd>
+</dl>
+<dl>
+    <dt>Costanera Center</dt>
+    <dd>El edificio mas alto de suramerica, sus vistas desde su piso mas alto podras ver toda
+        la ciudad.
+    </dd>
+</dl>
+<dl><dt>centro historico de santiago</dt>
+    <dd>aqui podras todos los edificios gubernamentalesy mas.</dd>
+
+</dl>
+
+<blockquote>
+    <P>Mucho mas temprano que tarde,de nuevo se abriran las grandes alamedas
+        por donde pase el hombre librepara construir una sociedad mejor. </P>
+        <cite>Salvador Allende</cite>
+</blockquote>
+
+<h1>El Tiempo de Hoy</h1>
+<p>En Santigo actualmente es verano,el dia de hoy esta a 26 celcius.</p>
+
+    <time datetime="01-09-2024">9 de enero del 2024</time>
+
+    <p>espero que hayan disfrutado de este codigo basico :)</p>
+
